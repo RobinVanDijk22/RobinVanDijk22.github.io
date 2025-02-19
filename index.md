@@ -5,7 +5,7 @@ subtitle: PhD student in Marine Biogeochemistry
 use-site-title: true
 ---
 
-I am a PhD student at UTAS and IMAS, supervised by Pier van der Merwe, Ashley Townsend, and Pearse Buchanan . In my research project "Cryspheric sources of tracel metals along the Antarctic margins"
+I am a PhD student at UTAS and IMAS, supervised by Pier van der Merwe, Ashley Townsend, and Pearse Buchanan . In my research project "Cryspheric sources of tracel metals along the Antarctic margins" I will collect observational data from two regions in Antarctica (Denman Glacier, and King Haakon VII Sea) and quantify the glacier input of trace metals in both regions. With this data, we aim to improve quantification of the total glacier melt input around Antarctica using World Ocean Models of Biogeochemistry And Trophic dynamics. 
 
 Find out more about me [here](/aboutme.md) or have a look at my [CV](/cv.html).  
 &nbsp;   
