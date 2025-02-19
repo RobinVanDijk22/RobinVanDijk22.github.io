@@ -4,7 +4,7 @@ title: 64PE513 - BEYΩND voyage
 subtitle: First time on a research vessel
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [voyage]
 comments: true
 mathjax: true
 author: Robin van Dijk
